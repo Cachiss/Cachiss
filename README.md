@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Who am I?
-I'm a 21 yo software developer from Querétaro, México. I'm currently studying in the [Universidad Tecnológica de San Juan Del Río](https://www.utsjr.edu.mx/) and sometimes I work as a freelancer developer.
+I'm a 22 yo software developer from Querétaro, México. I'm currently studying in the [Universidad Tecnológica de San Juan Del Río](https://www.utsjr.edu.mx/) and sometimes I work as a freelancer developer.
 
 ## I’m currently learning 🤠 ... 
 
