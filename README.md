@@ -21,8 +21,3 @@ I'm a 22 yo software developer from Querétaro, México. I'm currently studying 
 
 Now I’m just trying to specialize in my strongest skills, such as React and JavaScript, and exploring Python for data analytics :))
 
-## A little bit more about me ✨
-
-I love literature too, I think that the literature and poetry are the ways to reach feelings that move our life, I mean, our essence that makes us human. So if you want, follow me in [Goodreads](https://www.goodreads.com/user/show/134372947-marcos-camacho). I never review but maybe one day I will start to.
-
-
