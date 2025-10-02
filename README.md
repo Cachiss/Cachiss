@@ -1,23 +1,23 @@
-### Hi there 👋
+# Helloo, I'm Marcos  
 
-<!--
-**Cachiss/Cachiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer **Fullstack Development** and currently leading **DevOps** in my team.  
+I work with **Google Cloud Platform (GCP)**, web & app development using React/React native, build **web scraping pipelines** in Python, and I'm focusing on growing as a **DevOps Engineer**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Who am I?
-I'm a 22 yo software developer from Querétaro, México. I'm currently studying in the [Universidad Tecnológica de San Juan Del Río](https://www.utsjr.edu.mx/) and sometimes I work as a freelancer developer.
+## 🚀 Tech Stack  
+- **Frontend:** React & Next.js
+- **Backend:** Python, Node.js, FastAPI, Laravel
+- **Databases:** PostgreSQL, Firestore, Cloud SQL  
+- **Cloud & DevOps:** GCP (Cloud Run, Cloud Functions, Firebase), Docker, GitHub Actions, Terraform (learning)  
+- **Other:** Web Scraping (BeautifulSoup, Playwright, Selenium)  
 
-## I’m currently learning 🤠 ... 
+---
 
-Now I’m just trying to specialize in my strongest skills, such as React and JavaScript, and exploring Python for data analytics :))
+## 📌 Current Focus  
+- Managing DevOps for my team (CI/CD, GCP deployments).  
+- Building data pipelines with **web scraping** in Python.  
+- Growing my skills in **cloud infrastructure and DevOps practices**.  
 
+---
+CARPE DIEM!
